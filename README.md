@@ -1,4 +1,10 @@
-# bowling_game_kata
+# BowlingGame Kata
+
+## Kata
+
+![Rules](/Bowling_Game_Kata_Rules.png?raw=true)
+
+Taken from this course: https://www.pluralsight.com/courses/test-driven-rails-rspec-capybara-cucumber
 
 ## Example
 
